@@ -1,0 +1,19 @@
+{
+  "name": "node-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./src/app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
